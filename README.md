@@ -9,7 +9,7 @@ COEX-seq is a web application(Shiny; a web application framework for R) framewor
 2. Install Shiny package (https://cran.r-project.org/web/packages/shiny/index.html)
   - command line  
   - > install.packages("shiny") 
-3. Download R codes [COEX-Seq](https://github.com/NIHxAI/COEX-seq/Data/COEX-seq.zip)
+3. Download R codes [COEX-Seq](https://https://github.com/NIHxAI/COEX-Seq/tree/main/Data/COEX-seq.zip)
   - Unzip COEX-seq.zip
   - load server.r and ui.r
 4. Download Reference Dataset 
