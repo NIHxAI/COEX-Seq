@@ -13,14 +13,14 @@ COEX-seq is a web application(Shiny; a web application framework for R) framewor
   - Unzip COEX-seq.zip
   - load server.r and ui.r
 4. Download Reference Dataset 
-  - Ensemble_length.txt [Ensemble_length](https://github.com/NIHxAI/COEX-seq/Data/Ensemble_length.txt) 
-  - Entrez_length.txt [Entrez_length](https://github.com/NIHxAI/COEX-seq/Data/Entrez_length.txt)
-  - GenBank_length.txt [GenBank_length](https://github.com/NIHxAI/COEX-seq/Data/GenBank_length.txt)
-  - GeneSymbol_length.txt [GeneSymbol_length](https://github.com/NIHxAI/COEX-seq/Data/GeneSymbol_length.txt)
+  - Ensemble_length.txt [Ensemble_length](https://github.com/NIHxAI/COEX-Seq/Data/Ensemble_length.txt) 
+  - Entrez_length.txt [Entrez_length](https://github.com/NIHxAI/COEX-Seq/Data/Entrez_length.txt)
+  - GenBank_length.txt [GenBank_length](https://github.com/NIHxAI/COEX-Seq/Data/GenBank_length.txt)
+  - GeneSymbol_length.txt [GeneSymbol_length](https://github.com/NIHxAI/COEX-Seq/Data/GeneSymbol_length.txt)
 5. Run server.r(or ui.r) using Rstudio
 6. Select Before Measurement : ex) Count
 7. Select After Measurement : ex) TPM
-8. Load Input file : ex) example file [Example_file_](https://github.com/NIHxAI/COEX-seq/Data/RNAseq_readcount.txt)
+8. Load Input file : ex) example file [Example_file_](https://github.com/NIHxAI/COEX-Seq/Data/RNAseq_readcount.txt)
 9. Click: Header, Seperator
 10. Click Submit
 
