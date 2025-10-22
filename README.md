@@ -13,7 +13,7 @@ COEX-seq is a web application(Shiny; a web application framework for R) framewor
   - Unzip COEX-seq.zip
   - load server.r and ui.r
 4. Download Reference Dataset 
-  - Ensemble_length.txt [Ensemble_length](https://raw.githubusercontent.com/NIHxAI/COEX-Seq/Data/Ensemble_length.txt) 
+  - Ensemble_length.txt [Ensemble_length](https://raw.githubusercontent.com/NIHxAI/COEX-Seq/main/Data/Ensemble_length.txt) 
   - Entrez_length.txt [Entrez_length](https://github.com/NIHxAI/COEX-Seq/Data/Entrez_length.txt)
   - GenBank_length.txt [GenBank_length](https://github.com/NIHxAI/COEX-Seq/Data/GenBank_length.txt)
   - GeneSymbol_length.txt [GeneSymbol_length](https://github.com/NIHxAI/COEX-Seq/Data/GeneSymbol_length.txt)
